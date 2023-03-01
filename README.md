@@ -1,7 +1,7 @@
-## Alert! This script was developed for self test and learning Python and is for educational purposes only
+## Alerta! Este script foi desenvolvido para autoteste e aprendizado de Python e é apenas para fins educacionais
 
->> The script makes a GET call to the given target website and then examines the X-Powered-By head of the response header to determine the PHP version that was delivered.
+>> O script faz uma chamada GET para o site de destino fornecido e, em seguida, examina o cabeçalho X-Powered-By do cabeçalho de resposta para determinar a versão do PHP que foi entregue.
 
->> The website is utilizing an old version of PHP that contains known vulnerabilities if the PHP version is 5.6 or below. The email recipient is then informed about the vulnerability in a notification email.
+>> O site está utilizando uma versão antiga do PHP que contém vulnerabilidades conhecidas se a versão do PHP for 5.6 ou inferior. O destinatário do e-mail é informado sobre a vulnerabilidade em um e-mail de notificação.
 
->> This script is only a simple illustration; take aware that if the recipient's email server is blocking the message or if the credentials are wrong, sending an email using SMTP may not function as planned.
+>> Este script é apenas uma ilustração simples; lembre-se de que, se o servidor de e-mail do destinatário estiver bloqueando a mensagem ou se as credenciais estiverem incorretas, o envio de um e-mail usando SMTP pode não funcionar como planejado.
