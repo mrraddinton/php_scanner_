@@ -1,4 +1,4 @@
-## Alerta! Este script foi desenvolvido para autoteste e aprendizado de Python e é apenas para fins educacionais
+## Este script foi desenvolvido para autoteste e aprendizado de Python e é apenas para fins educacionais
 
 >> O script faz uma chamada GET para o site de destino fornecido e, em seguida, examina o cabeçalho X-Powered-By do cabeçalho de resposta para determinar a versão do PHP que foi entregue.
 
